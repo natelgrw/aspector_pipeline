@@ -2,7 +2,7 @@
 
 ASPECTOR is a Cadence Spectre based simulation pipeline that searches a wide Analog design space and fine tunes sizing and bias parameters to meet target circuit performance specs.
 
-Current Version: **0.1.3**
+Current Version: **1.0.0**
 
 
 ![Simulation Pipeline](turbo_optimizer/simulation_pipeline.png)

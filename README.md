@@ -1,6 +1,6 @@
 # ASPECTOR Core
 
-ASPECTOR is a Cadence Spectre based simulation pipeline that searches a wide Analog design space and fine tunes sizing and bias parameters to meet target circuit performance specs.
+ASPECTOR Core is a Cadence Spectre based simulation pipeline that searches a wide Analog design space and fine tunes sizing and bias parameters to meet target circuit performance specs.
 
 Current Version: **1.0.0**
 

@@ -2,6 +2,8 @@
 
 ASPECTOR Core is a Cadence Spectre based simulation pipeline that searches a wide Analog design space and fine tunes sizing and bias parameters to meet target circuit performance specs.
 
+ASPECTOR Core is part of the ASPECTOR suite, a collection of tools for AI-driven op-amp design and analysis. It is designed to be used in tandem with ASPECTOR Foundry, a graph based op-amp topology generator.
+
 Current Version: **1.0.0**
 
 ## ⚡ Current Features
